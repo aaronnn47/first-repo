@@ -8,3 +8,8 @@ var car = {
 }
 
 var myName = "Aaron";
+
+function sayHello(){
+
+    console.log ('hey')
+}
